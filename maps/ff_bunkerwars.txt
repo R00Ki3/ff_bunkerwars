@@ -1,0 +1,9 @@
+    BUNKERWARS by R00Kie
+__________________________________________________
+Destroy the enemy bunker by attacking it as you would a player.
+Defend your bunker from the enemy, get inside to deal extra damage.
+The team that reaches 0 points first, loses.
+__________________________________________________ 
+Enter your bunker by climbing ontop of it.
+	You Will Deal 2x more damage while inside and take 4x less damage.
+Exit the bunker by jumping while in the center of it.

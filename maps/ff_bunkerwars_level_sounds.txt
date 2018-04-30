@@ -1,0 +1,26 @@
+// game sounds for the ff_bunkerwars map. Thanks waterpolos
+
+"ff_anticitizen.explode_4"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel" 	"SNDLVL_NONE"
+	"wave"		"*ff_anticitizen/explode_4.wav"
+}
+
+"ff_anticitizen.explode_3"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel" 	"SNDLVL_NONE"
+	"wave"		"*ff_anticitizen/explode_3.wav"
+}
+
+"ff_waterpolo.bloop"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel" 	"SNDLVL_NONE"
+	"wave"		"*misc/bloop.wav"
+}
+
